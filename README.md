@@ -3,4 +3,4 @@ From Colt Steele's [Modern React Bootcamp](https://www.udemy.com/modern-react-bo
 
 [CLICK HERE FOR DEMO](https://julienorcross.github.io/yahtzee-starter)
 
-![alt text]()
+![alt text](https://github.com/julienorcross/yahtzee-starter/blob/master/yahtzee.png)
